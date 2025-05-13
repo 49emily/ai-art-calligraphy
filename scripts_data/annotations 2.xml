@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2423526</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-05-03 23:04:59.324549+00:00</created>
+      <updated>2025-05-04 02:03:56.306424+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2425804</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/2423526</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>49emily</username>
+        <email>emily49@stanford.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>character</name>
+          <color>#cd1c49</color>
+          <type>rectangle</type>
+          <attributes>
+            <attribute>
+              <name>text</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value></default_value>
+              <values></values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-05-04 02:04:06.894748+00:00</dumped>
+  </meta>
+  <image id="0" name="IMG_9426-width=200%_height=200% (1).jpg" width="720" height="1280">
+    <box label="character" source="manual" occluded="0" xtl="563.45" ytl="450.21" xbr="599.40" ybr="483.59" z_order="0">
+      <attribute name="text">分</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="607.10" ytl="437.37" xbr="655.50" ybr="487.44" z_order="0">
+      <attribute name="text">离</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="121.78" ytl="442.50" xbr="169.28" ybr="510.55" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="182.12" ytl="454.06" xbr="221.93" ybr="496.43" z_order="0">
+      <attribute name="text">走</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="225.78" ytl="456.63" xbr="241.18" ybr="498.99" z_order="0">
+      <attribute name="text">了</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="289.97" ytl="447.64" xbr="329.77" ybr="496.43" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="328.49" ytl="451.49" xbr="368.29" ybr="504.13" z_order="0">
+      <attribute name="text">们</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="400.39" ytl="438.65" xbr="442.76" ybr="506.70" z_order="0">
+      <attribute name="text">将</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="503.10" ytl="452.77" xbr="548.04" ybr="497.71" z_order="0">
+      <attribute name="text">时</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="455.60" ytl="451.49" xbr="495.40" ybr="507.60" z_order="0">
+      <attribute name="text">暂</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="198.84" ytl="539.81" xbr="235.99" ybr="595.53" z_order="0">
+      <attribute name="text">间</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="324.41" ytl="552.44" xbr="354.13" ybr="585.13" z_order="0">
+      <attribute name="text">历</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="409.11" ytl="546.49" xbr="438.09" ybr="615.59" z_order="0">
+      <attribute name="text">年</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="505.70" ytl="530.89" xbr="542.11" ybr="586.62" z_order="0">
+      <attribute name="text">Zgan</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="280.04" ytl="546.50" xbr="317.76" ybr="586.43" z_order="0">
+      <attribute name="text">经</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="151.78" ytl="541.12" xbr="190.12" ybr="604.90" z_order="0">
+      <attribute name="text"></attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="102.30" ytl="552.00" xbr="148.91" ybr="594.80" z_order="0">
+      <attribute name="text">段</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="74.38" ytl="572.66" xbr="95.16" ybr="580.54" z_order="0">
+      <attribute name="text">一</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="367.48" ytl="553.31" xbr="382.53" ybr="584.84" z_order="0">
+      <attribute name="text">了</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="387.55" ytl="564.77" xbr="406.54" ybr="573.73" z_order="0">
+      <attribute name="text">一</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="452.76" ytl="554.38" xbr="496.48" ybr="583.76" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="546.64" ytl="533.24" xbr="593.58" ybr="593.08" z_order="0">
+      <attribute name="text">情</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="597.99" ytl="525.84" xbr="632.39" ybr="590.34" z_order="0">
+      <attribute name="text">磨</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="633.68" ytl="539.17" xbr="663.35" ybr="583.03" z_order="0">
+      <attribute name="text">合</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="78.14" ytl="638.06" xbr="119.42" ybr="696.11" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="118.56" ytl="650.06" xbr="160.27" ybr="707.72" z_order="0">
+      <attribute name="text">们</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="166.29" ytl="651.82" xbr="204.99" ybr="688.80" z_order="0">
+      <attribute name="text">彼</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="206.28" ytl="656.55" xbr="243.25" ybr="684.50" z_order="0">
+      <attribute name="text">此</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="259.59" ytl="647.95" xbr="293.99" ybr="684.50" z_order="0">
+      <attribute name="text">已</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="299.58" ytl="648.38" xbr="339.14" ybr="686.65" z_order="0">
+      <attribute name="text">很</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="341.72" ytl="632.47" xbr="389.88" ybr="680.63" z_order="0">
+      <attribute name="text">难</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="403.21" ytl="632.90" xbr="452.70" ybr="671.17" z_order="0">
+      <attribute name="text">缺</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="450.94" ytl="632.90" xbr="481.03" ybr="687.94" z_order="0">
+      <attribute name="text">少</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="487.05" ytl="631.18" xbr="523.17" ybr="688.37" z_order="0">
+      <attribute name="text">对</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="529.62" ytl="630.32" xbr="566.17" ybr="675.04" z_order="0">
+      <attribute name="text">方</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="595.17" ytl="629.85" xbr="634.18" ybr="681.86" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="632.94" ytl="634.80" xbr="674.43" ybr="681.86" z_order="0">
+      <attribute name="text">们</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="75.07" ytl="732.63" xbr="117.17" ybr="779.07" z_order="0">
+      <attribute name="text">每</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="116.55" ytl="732.63" xbr="162.37" ybr="779.07" z_order="0">
+      <attribute name="text">次</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="162.37" ytl="740.68" xbr="210.67" ybr="770.40" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="215.62" ytl="720.25" xbr="257.11" ybr="771.64" z_order="0">
+      <attribute name="text">努</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="254.01" ytl="738.82" xbr="286.21" ybr="767.92" z_order="0">
+      <attribute name="text"></attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="290.54" ytl="727.06" xbr="342.55" ybr="792.07" z_order="0">
+      <attribute name="text">都</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="350.60" ytl="720.25" xbr="382.18" ybr="771.02" z_order="0">
+      <attribute name="text">是</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="384.04" ytl="719.63" xbr="420.57" ybr="768.54" z_order="0">
+      <attribute name="text">为</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="419.95" ytl="727.68" xbr="436.67" ybr="762.97" z_order="0">
+      <attribute name="text">了</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="451.53" ytl="710.96" xbr="499.82" ybr="773.50" z_order="0">
+      <attribute name="text">将</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="502.30" ytl="710.96" xbr="556.17" ybr="766.69" z_order="0">
+      <attribute name="text">来</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="605.70" ytl="713.44" xbr="638.52" ybr="783.40" z_order="0">
+      <attribute name="text">作</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="80.02" ytl="804.46" xbr="138.84" ybr="865.13" z_order="0">
+      <attribute name="text">准</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="136.99" ytl="800.74" xbr="175.99" ybr="858.32" z_order="0">
+      <attribute name="text">备</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="208.19" ytl="806.31" xbr="260.20" ybr="857.70" z_order="0">
+      <attribute name="text">晖</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="265.77" ytl="811.27" xbr="312.21" ybr="844.70" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="317.78" ytl="791.45" xbr="362.98" ybr="849.04" z_order="0">
+      <attribute name="text">宽</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="358.65" ytl="793.31" xbr="399.52" ybr="844.70" z_order="0">
+      <attribute name="text">容</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="405.71" ytl="803.84" xbr="429.86" ybr="832.32" z_order="0">
+      <attribute name="text">与</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="433.18" ytl="800.97" xbr="477.55" ybr="836.57" z_order="0">
+      <attribute name="text">理</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="480.13" ytl="793.23" xbr="517.80" ybr="883.52" z_order="0">
+      <attribute name="text">解</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="538.44" ytl="794.26" xbr="574.56" ybr="841.73" z_order="0">
+      <attribute name="text">是</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="573.52" ytl="795.29" xbr="611.71" ybr="841.73" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="612.74" ytl="785.49" xbr="663.30" ybr="842.25" z_order="0">
+      <attribute name="text">最</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="64.77" ytl="902.10" xbr="108.63" ybr="938.22" z_order="0">
+      <attribute name="text">大</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="107.08" ytl="906.74" xbr="141.13" ybr="934.09" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="153.00" ytl="902.10" xbr="193.76" ybr="934.09" z_order="0">
+      <attribute name="text">动</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="190.15" ytl="903.13" xbr="215.95" ybr="929.45" z_order="0">
+      <attribute name="text">力</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="226.27" ytl="892.81" xbr="258.78" ybr="926.35" z_order="0">
+      <attribute name="text">与</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="260.33" ytl="889.20" xbr="293.35" ybr="930.48" z_order="0">
+      <attribute name="text">安</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="299.00" ytl="875.78" xbr="344.95" ybr="929.96" z_order="0">
+      <attribute name="text">慰</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="370.74" ytl="886.62" xbr="412.02" ybr="923.77" z_order="0">
+      <attribute name="text">这</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="409.44" ytl="873.72" xbr="439.89" ybr="938.73" z_order="0">
+      <attribute name="text">半</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="439.89" ytl="876.82" xbr="470.84" ybr="937.70" z_order="0">
+      <attribute name="text">年</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="472.39" ytl="888.17" xbr="507.99" ybr="918.09" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="511.61" ytl="879.40" xbr="551.34" ybr="917.58" z_order="0">
+      <attribute name="text">努</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="559.59" ytl="881.46" xbr="591.58" ybr="912.93" z_order="0">
+      <attribute name="text">力</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="63.22" ytl="982.59" xbr="109.66" ybr="1030.06" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="109.14" ytl="978.98" xbr="151.97" ybr="1030.06" z_order="0">
+      <attribute name="text">相</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="150.94" ytl="980.53" xbr="182.93" ybr="1024.39" z_order="0">
+      <attribute name="text">信</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="188.60" ytl="978.46" xbr="225.75" ybr="1023.35" z_order="0">
+      <attribute name="text">会</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="225.24" ytl="977.43" xbr="261.87" ybr="1034.19" z_order="0">
+      <attribute name="text">对</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="267.55" ytl="974.34" xbr="303.67" ybr="1030.58" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="300.57" ytl="975.37" xbr="340.30" ybr="1017.16" z_order="0">
+      <attribute name="text">们</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="348.55" ytl="984.03" xbr="388.86" ybr="1016.28" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="388.86" ytl="968.80" xbr="428.58" ybr="1013.89" z_order="0">
+      <attribute name="text">未</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="417.83" ytl="963.43" xbr="462.02" ybr="1022.55" z_order="0">
+      <attribute name="text">来</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="469.78" ytl="967.61" xbr="514.87" ybr="1007.32" z_order="0">
+      <attribute name="text">起</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="521.74" ytl="955.36" xbr="568.62" ybr="1024.64" z_order="0">
+      <attribute name="text">到</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="574.66" ytl="964.51" xbr="613.72" ybr="1003.57" z_order="0">
+      <attribute name="text">很</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="618.02" ytl="958.78" xbr="653.13" ybr="996.37" z_order="0">
+      <attribute name="text">大</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="71.94" ytl="1061.62" xbr="114.22" ybr="1095.30" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="116.73" ytl="1054.09" xbr="148.98" ybr="1111.78" z_order="0">
+      <attribute name="text">作</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="154.36" ytl="1053.73" xbr="185.89" ybr="1100.32" z_order="0">
+      <attribute name="text">用</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="224.23" ytl="1047.28" xbr="254.68" ybr="1089.92" z_order="0">
+      <attribute name="text">虽</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="256.83" ytl="1047.64" xbr="301.98" ybr="1084.19" z_order="0">
+      <attribute name="text">然</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="303.06" ytl="1054.09" xbr="333.87" ybr="1083.83" z_order="0">
+      <attribute name="text">不</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="333.16" ytl="1048.00" xbr="363.97" ybr="1082.76" z_order="0">
+      <attribute name="text">在</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="369.35" ytl="1045.85" xbr="412.34" ybr="1086.34" z_order="0">
+      <attribute name="text">你</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="414.14" ytl="1043.70" xbr="446.03" ybr="1092.79" z_order="0">
+      <attribute name="text">身</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="445.31" ytl="1055.88" xbr="490.10" ybr="1089.92" z_order="0">
+      <attribute name="text">边</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="511.24" ytl="1046.57" xbr="563.20" ybr="1082.04" z_order="0">
+      <attribute name="text">但</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="561.20" ytl="1032.95" xbr="605.12" ybr="1085.27" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="608.09" ytl="1038.50" xbr="650.91" ybr="1094.39" z_order="0">
+      <attribute name="text">时</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="79.38" ytl="1131.35" xbr="129.86" ybr="1198.51" z_order="0">
+      <attribute name="text">刻</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="169.98" ytl="1125.94" xbr="214.15" ybr="1180.03" z_order="0">
+      <attribute name="text">会</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="216.40" ytl="1119.63" xbr="260.13" ybr="1175.52" z_order="0">
+      <attribute name="text">想</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="265.08" ytl="1125.49" xbr="307.45" ybr="1173.72" z_order="0">
+      <attribute name="text">念</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="305.65" ytl="1130.90" xbr="356.58" ybr="1173.26" z_order="0">
+      <attribute name="text">你</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="390.84" ytl="1118.28" xbr="436.36" ybr="1174.62" z_order="0">
+      <attribute name="text">每</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="435.91" ytl="1126.39" xbr="462.96" ybr="1164.25" z_order="0">
+      <attribute name="text">分</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="466.56" ytl="1120.53" xbr="507.13" ybr="1166.50" z_order="0">
+      <attribute name="text">每</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="507.58" ytl="1117.37" xbr="554.90" ybr="1185.89" z_order="0">
+      <attribute name="text">秒</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="470.62" ytl="1183.63" xbr="510.28" ybr="1235.02" z_order="0">
+      <attribute name="text">爱</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="507.58" ytl="1197.60" xbr="545.89" ybr="1234.56" z_order="0">
+      <attribute name="text">你</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="547.24" ytl="1198.96" xbr="589.16" ybr="1229.61" z_order="0">
+      <attribute name="text">的</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="591.41" ytl="1181.83" xbr="665.79" ybr="1234.11" z_order="0">
+      <attribute name="text">健</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="69.25" ytl="346.89" xbr="140.93" ybr="425.00" z_order="0">
+      <attribute name="text">晖</attribute>
+    </box>
+  </image>
+</annotations>
