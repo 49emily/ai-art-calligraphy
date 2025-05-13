@@ -1,0 +1,10 @@
+modal>=0.52.0
+huggingface_hub>=0.18.0
+pillow>=10.0.0
+tqdm>=4.65.0
+transformers>=4.30.0
+diffusers>=0.21.0
+accelerate>=0.20.0
+peft
+sentencepiece
+deepspeed

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2423526</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-05-03 23:04:59.324549+00:00</created>
+      <updated>2025-05-03 23:56:19.056612+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2425804</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/2423526</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>49emily</username>
+        <email>emily49@stanford.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>character</name>
+          <color>#cd1c49</color>
+          <type>rectangle</type>
+          <attributes>
+            <attribute>
+              <name>text</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value></default_value>
+              <values></values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-05-03 23:57:31.685763+00:00</dumped>
+  </meta>
+  <image id="0" name="IMG_9426-width=200%_height=200% (1).jpg" width="720" height="1280">
+    <box label="character" source="manual" occluded="0" xtl="563.45" ytl="450.21" xbr="599.40" ybr="483.59" z_order="0">
+      <attribute name="text">分</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="607.10" ytl="437.37" xbr="655.50" ybr="487.44" z_order="0">
+      <attribute name="text">离</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="121.78" ytl="442.50" xbr="169.28" ybr="510.55" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="182.12" ytl="454.06" xbr="221.93" ybr="496.43" z_order="0">
+      <attribute name="text">走</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="225.78" ytl="456.63" xbr="241.18" ybr="498.99" z_order="0">
+      <attribute name="text">了</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="289.97" ytl="447.64" xbr="329.77" ybr="496.43" z_order="0">
+      <attribute name="text">我</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="328.49" ytl="451.49" xbr="368.29" ybr="504.13" z_order="0">
+      <attribute name="text">们</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="400.39" ytl="438.65" xbr="442.76" ybr="506.70" z_order="0">
+      <attribute name="text">将</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="455.60" ytl="451.49" xbr="495.40" ybr="505.41" z_order="0">
+      <attribute name="text">暂</attribute>
+    </box>
+    <box label="character" source="manual" occluded="0" xtl="503.10" ytl="452.77" xbr="548.04" ybr="497.71" z_order="0">
+      <attribute name="text">时</attribute>
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,44 @@
+----------------- Options ---------------
+             aspect_ratio: 1.0                           
+               batch_size: 1                             
+          checkpoints_dir: ./tools/pytorch-CycleGAN-and-pix2pix/checkpoints	[default: ./checkpoints]
+                crop_size: 256                           
+                 dataroot: ./temp/char_input             	[default: None]
+             dataset_mode: single                        
+                direction: BtoA                          	[default: AtoB]
+          display_winsize: 256                           
+                    epoch: latest                        
+                     eval: False                         
+                  gpu_ids: -1                            	[default: 0]
+                init_gain: 0.02                          
+                init_type: normal                        
+                 input_nc: 3                             
+                  isTrain: False                         	[default: None]
+                load_iter: 0                             	[default: 0]
+                load_size: 256                           
+         max_dataset_size: inf                           
+         modal_data_mount: False                         
+         modal_output_dir: /tmp/output                   
+                    model: test                          
+             model_suffix:                               
+               n_layers_D: 3                             
+                     name: characters                    	[default: experiment_name]
+                      ndf: 64                            
+                     netD: basic                         
+                     netG: unet_256                      	[default: resnet_9blocks]
+                      ngf: 64                            
+               no_dropout: False                         
+                  no_flip: False                         
+                     norm: batch                         	[default: instance]
+                 num_test: 50                            
+              num_threads: 4                             
+                output_nc: 3                             
+                    phase: test                          
+               preprocess: resize_and_crop               
+              results_dir: ./results                     	[default: ./results/]
+           serial_batches: False                         
+                   suffix:                               
+                use_wandb: False                         
+                  verbose: False                         
+       wandb_project_name: CycleGAN-and-pix2pix          
+----------------- End -------------------
